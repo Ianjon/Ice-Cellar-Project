@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Recording projects
+![Image of myself](https://uafgina.tumblr.com/image/161110409159)!
+### A little bit about myself
 
-You can use the [editor on GitHub](https://github.com/Ianjon/Ice-Cellar-Project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! My name is Ianjon Brower and I’m working for ASRC-Federal and GINA this summer. My project for this summer is going to be prototyping a Raspberry Pi with specific sensors that monitor the temperature (and other things) of ice cellars that is easy for anyone to use! These ice cellars are in native villages such as Utqiagvik, Nuiqsut, and many more.  The reason we need to do this work is that some of the ice cellars have been filling up with water by melting and this is ruining their storage for all year around. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ianjon/Ice-Cellar-Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ice cellars have been around for centuries to the Alaskan Natives. They're used to store an abudant amount of hunted game food for the year(s) so that it doesn't go bad. Imagine those large ice chest freezers, but then multiply the storage space by about 10, but requires no power because of the permafrost. 

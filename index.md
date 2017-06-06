@@ -1,5 +1,5 @@
 ## Recording projects
-![Image of myself](https://uafgina.tumblr.com/image/161110409159)!
+![Image of myself](https://uafgina.tumblr.com/image/161110409159)
 ### A little bit about myself
 
 Hi! My name is Ianjon Brower and I’m working for ASRC-Federal and GINA this summer. My project for this summer is going to be prototyping a Raspberry Pi with specific sensors that monitor the temperature (and other things) of ice cellars that is easy for anyone to use! These ice cellars are in native villages such as Utqiagvik, Nuiqsut, and many more.  The reason we need to do this work is that some of the ice cellars have been filling up with water by melting and this is ruining their storage for all year around. 

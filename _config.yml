@@ -1,1 +1,13 @@
+title: Ice Cellar Project
 theme: jekyll-theme-architect
+descriptions:
+collections:
+  projects:
+    output: true
+    
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: page

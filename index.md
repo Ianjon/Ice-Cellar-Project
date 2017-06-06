@@ -8,4 +8,4 @@ Ice cellars have been around for centuries to the Alaskan Natives. They're used 
 
 
 
-![Image of myself](https://uafgina.tumblr.com/image/161110409159)
+![Image of myself](https://68.media.tumblr.com/05f4e78112df507941c0b1e36f1f93ca/tumblr_oql4znzL781rvvqxio1_1280.jpg)

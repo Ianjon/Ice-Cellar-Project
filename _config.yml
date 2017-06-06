@@ -4,10 +4,9 @@ descriptions:
 collections:
   projects:
     output: true
-    
 defaults:
   - scope:
       path: ""
-      type: projects
+      type: 
     values:
       layout: page

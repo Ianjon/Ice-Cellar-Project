@@ -6,7 +6,7 @@ collections:
     output: true
 defaults:
   - scope:
-      path: ""
+      path: "_setting_up"
       type: 
     values:
       layout: page

@@ -1,6 +1,6 @@
 ---
 title: Getting the pi started
-layout: 
+layout: default
 ---
 <ul class= "well lead list-unstyled">
   <li>
